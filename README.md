@@ -39,7 +39,7 @@ Este é um CRUD para Web do curso de informática de sistemas. Com este projeto 
  ![Screenshot (217)](https://user-images.githubusercontent.com/71551874/131999531-22f8ad77-9213-4054-be36-ed4d7e9524c1.png)
  
  # Desenvolvido por 
-   * Cacildo Erasmo Mabunda
+   * Cacildo Erasmo
   
  Obrigado!
 
