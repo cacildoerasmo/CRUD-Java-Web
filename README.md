@@ -9,6 +9,7 @@ Este é um CRUD para Web do curso de informática de sistemas. Com este projeto 
  * Javascript
  * Hibernate
  * MySQL
+ * Arquitetura MVC
  
  # Como usar
  # 1 - Inicialmente o sistema mostrará uma tela inicial, onde vamos escolher onde vamos fazer o CRUD.
